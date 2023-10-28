@@ -1,0 +1,119 @@
+{
+	"name": "zx's special red md3",
+	"description": "Theme for people who like red theme with md3",
+	"authors": [
+
+		{
+			"name": "zx.tr",
+			"id": "780054631542685747"
+
+		}
+	],
+	"semanticColors": {
+		"HEADER_PRIMARY": [
+			"#ffffff"
+		],
+		"HEADER_SECONDARY": [
+			"#ffa1a1"
+		],
+		"TEXT_NORMAL": [
+			"#fad9d9"
+		],
+		"TEXT_MUTED": [
+			"#fc9090"
+		],
+		"INTERACTIVE_NORMAL": [
+			"#ffa1a1"
+		],
+		"INTERACTIVE_HOVER": [
+			"#f76060"
+		],
+		"INTERACTIVE_ACTIVE": [
+			"#ffffff"
+		],
+		"INTERACTIVE_MUTED": [
+			"#a34949"
+		],
+		"BACKGROUND_PRIMARY": [
+			"#5e0f0f"
+		],
+		"BACKGROUND_SECONDARY": [
+			"#8f2b2b"
+		],
+		"BACKGROUND_SECONDARY_ALT": [
+			"#7d2828"
+		],
+		"BACKGROUND_TERTIARY": [
+			"#590b0b"
+		],
+		"BACKGROUND_ACCENT": [
+			"#520e0e"
+		],
+		"BACKGROUND_FLOATING": [
+			"#803c3c"
+		],
+		"BACKGROUND_MOBILE_PRIMARY": [
+			"#591d1d"
+		],
+		"BACKGROUND_MOBILE_SECONDARY": [
+			"#6b1d1d"
+		],
+		"BACKGROUND_NESTED_FLOATING": [
+			"#15100d"
+		],
+
+		"BACKGROUND_MESSAGE_HOVER": [
+			"#f76060"
+		],
+		"BACKGROUND_MODIFIER_HOVER": [
+			"#703838"
+		],
+		"BACKGROUND_MODIFIER_ACTIVE": [
+			"#522b2b"
+		],
+		"BACKGROUND_MODIFIER_SELECTED": [
+			"#8f2525"
+		],
+		"BACKGROUND_MODIFIER_ACCENT": [
+			"503E38"
+		],
+		"SCROLLBAR_THIN_THUMB": [
+			"#3b2626"
+		],
+		"SCROLLBAR_THIN_TRACK": [
+			"transparent"
+		],
+		"SCROLLBAR_AUTO_THUMB": [
+			"#DAC0B3"
+		],
+		"SCROLLBAR_AUTO_TRACK": [
+			"#DAC0B3"
+		],
+		"CHANNELTEXTAREA_BACKGROUND": [
+			"#b04d4d"
+		],
+		"CHANNELS_DEFAULT": [
+			"#f2aaaa"
+		],
+		"TEXT_LINK": [
+			"#ff6666"
+		],
+		"KEYBOARD": [
+			"#110D0A"
+		],
+		"CHANNEL_ICON": [
+			"#EFDFD7"
+		],
+		"CHAT_BACKGROUND": [
+			"#570d0d"
+		]
+	},
+	"plus": {
+		"version": 0,
+		"unreadBadgeColor": "#f76565",
+		"mentionLineColor": "#f76d6d",
+		"customOverlays": true,
+		"iconpack": "md3"
+	},
+	"spec": 2
+}
