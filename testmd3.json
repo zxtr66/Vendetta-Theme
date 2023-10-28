@@ -34,18 +34,6 @@
 		"INTERACTIVE_MUTED": [
 			"#a34949"
 		],
-		"BACKGROUND_PRIMARY": [
-			"#5e0f0f"
-		],
-		"BACKGROUND_SECONDARY": [
-			"#8f2b2b"
-		],
-		"BACKGROUND_SECONDARY_ALT": [
-			"#7d2828"
-		],
-		"BACKGROUND_TERTIARY": [
-			"#590b0b"
-		],
 		"BACKGROUND_ACCENT": [
 			"#520e0e"
 		],
