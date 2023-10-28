@@ -40,12 +40,6 @@
 		"BACKGROUND_FLOATING": [
 			"#803c3c"
 		],
-		"BACKGROUND_MOBILE_PRIMARY": [
-			"#591d1d"
-		],
-		"BACKGROUND_MOBILE_SECONDARY": [
-			"#6b1d1d"
-		],
 		"BACKGROUND_NESTED_FLOATING": [
 			"#15100d"
 		],
