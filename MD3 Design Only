@@ -1,0 +1,25 @@
+{
+    "name": "Maggie's Purple",
+    "description": "Theme for people who like the color purple (Version 2.0)",
+    "authors": [
+       
+        {
+            "name": "maggie",
+            "id": "330299657458679821"
+          
+        }
+],
+"plus": {
+	"version": 0,
+	"icons": {
+		"ic_new_pins": [
+			"#FAA",
+			"#AFA",
+			"#AAF",
+			"#FAF"
+		],
+		"emoji": [
+			"#AFF"
+		]
+	}
+}
