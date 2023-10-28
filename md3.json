@@ -1,0 +1,14 @@
+"plus": {
+	"version": 0,
+	"icons": {
+		"ic_new_pins": [
+			"#FAA",
+			"#AFA",
+			"#AAF",
+			"#FAF"
+		],
+		"emoji": [
+			"#AFF"
+		]
+	}
+}
